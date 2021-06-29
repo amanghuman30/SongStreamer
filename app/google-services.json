@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687757391175",
+    "project_id": "songstreamer-3954c",
+    "storage_bucket": "songstreamer-3954c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687757391175:android:6c3fe80d7d361ec01a8862",
+        "android_client_info": {
+          "package_name": "com.songstreamer.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687757391175-9t7t3611cjom23j0t9bs9tklfasmd4h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-hJ1LKNhlUMYLNLzvR17RWhYhHik2ujE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687757391175-9t7t3611cjom23j0t9bs9tklfasmd4h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
